@@ -9,7 +9,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node index"
+    "start": "node index --watch"
   },
   "keywords": [],
   "author": "",
