@@ -1,3 +1,5 @@
 {
-  "products": [{ "name": "Soy un producto" }]
+  "users": {
+    "id1": { "name": "Hola" }
+  }
 }
